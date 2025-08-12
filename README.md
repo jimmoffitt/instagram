@@ -9,6 +9,13 @@ It's important to note that this is not a personal-use API. You need a Facebook 
 
 Before the code will work, you must have a Facebook Developer account, a Facebook Page, and an Instagram Business account connected. You will also need to generate a Page Access Token with the correct permissions.
 
+Professional and Creator Accounts are Standard: Any user can switch their personal account to a Professional or Creator account for free. This is a fundamental feature of the platform and is a prerequisite for accessing many of the advanced tools and APIs, including the Messenger Platform for Instagram.
+
+Public Safety Organizations as Users: Many public safety and government agencies successfully use standard Instagram features to communicate with the public, provide real-time alerts, and build community trust. They leverage the platform as a public communication channel rather than through a specialized, dedicated "for good" program.
+
+https://www.nptechforgood.com/101-best-practices/10-instagram-best-practices-for-nonprofits/
+
+
 
 ### Creating post
 The process involves using the Messenger Platform API, which allows you to send various message types, including interactive ones with buttons that link to specific URLs.
